@@ -6,5 +6,6 @@ void creatRandomNumber(int *numArr, int num)
     {
         *numArr = rand() % 10000;
         numArr++;
+		
     }
 }
